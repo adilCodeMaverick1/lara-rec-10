@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React
+build/
+dist/
+
+# Laravel
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+.env
+Homestead.yaml
+Homestead.json
+/.vagrant
+
+# IDEs and editors
+.idea
+.vscode
+*.sublime-project
+*.sublime-workspace
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
